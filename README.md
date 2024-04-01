@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ngolebiewski
-- 👀 I’m an artist that has come to the world of coding 
+- 👀 I’m a visual artist and web developer, recently merging those two passions as a full stack software engineer
 - I graduated from a Fullstack Academy bootcamp in web development (full stack!) in February 2024!
-- 🌱 Interstes Python and Javascript and the stuff in the stack (React, Node, Express, Prisma, PostgreSQL, HTML, CSS, etc)
-- 💞️ I’m looking to collaborate on art projects, I am a visual artist afterall.
+- I've been web developing since 2003.
+- 🌱 Intersts: Python and Javascript, and the stuff in the stack (React, Node, Express, Prisma, PostgreSQL, HTML, CSS, etc)
+- 💞️ I’m looking to collaborate on projects at the intersection of art and code.
 - 📫 How to reach me: Instagram: @nickgolebiewski
 
 <!---
