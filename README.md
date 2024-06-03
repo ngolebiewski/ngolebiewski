@@ -5,6 +5,7 @@
 - 🌱 Intersts: Python and Javascript, and the stuff in the stack (React, Node, Express, Prisma, PostgreSQL, HTML, CSS, etc)
 - 💞️ I’m looking to collaborate on projects at the intersection of art and code.
 - 📫 How to reach me: x@nickgolebiewski.com and Instagram: @nickgolebiewski
+- Portfolio: https://tech.nickgolebiewski.com
 
 <!---
 ngolebiewski/ngolebiewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
