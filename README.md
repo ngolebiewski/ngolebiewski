@@ -2,10 +2,11 @@
 - 👀 I’m a visual artist and web developer, recently merging those two passions as a full stack software engineer
 - I graduated from a Fullstack Academy bootcamp in web development (full stack!) in February 2024!
 - I've been web developing since 2003.
-- 🌱 Intersts: Python and Javascript, and the stuff in the stack (React, Node, Express, Prisma, PostgreSQL, HTML, CSS, etc)
+- 🌱 Intersts: Python, Javascript and Go, and the stuff in the stack (React, Next, Node, Express, Prisma, PostgreSQL, HTML, CSS, etc)
 - 💞️ I’m looking to collaborate on projects at the intersection of art and code.
 - 📫 How to reach me: x@nickgolebiewski.com and Instagram: @nickgolebiewski
-- Portfolio: https://tech.nickgolebiewski.com
+- 💼 Portfolio: https://tech.nickgolebiewski.com
+- 🎉 New Portfolio: https://www.nickgolebiewski.art/tech
 
 <!---
 ngolebiewski/ngolebiewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
